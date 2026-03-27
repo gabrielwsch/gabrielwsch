@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, eu sou o Gabriel! 👋
 
-<!--
-**gabrielwsch/gabrielwsch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Full Stack apaixonado por tecnologia, dados e criação de jogos. Tenho um background técnico em Eletrotécnica que me deu uma base forte em lógica e sistemas.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologias e Ferramentas
+- **Frontend:** React, JavaScript, TypeScript, HTML, CSS.
+- **Backend & Dados:** SQL, Node.js.
+- **Data Viz:** Power BI (Transformando dados em decisões).
+- **Game Dev:** GameMaker Studio 2 (GMS2).
+- **Outros:** Eletrotécnica e Automação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Estatísticas
+![Stats de Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU-USUARIO]&layout=compact&theme=vision-friendly-dark)
+
+### 🕹️ Projetos de Destaque
+- **[Nome do Jogo]:** Criado no GMS2, focado em [estilo do jogo].
+- **[Dashboard X]:** Análise de dados feita no Power BI sobre [tema].
+- **[Projeto Web]:** Sistema Full Stack usando React e SQL.
+
+### 📫 Como me encontrar
+- [E-mail](gabriel.wolfgang27@gmail.com)
